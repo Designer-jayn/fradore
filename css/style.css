@@ -8,19 +8,20 @@ html, body {
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -31%);
     width: 120vw;
-    height: 9480px;
+    height: 6867px;
     position: relative;
     background: url(../images/promotion2.jpg);
     background-size: cover;
-    -webkit-filter: blur(30px); 
-    -moz-filter: blur(30px); 
-    -o-filter: blur(30px); 
-    -ms-filter: blur(30px); 
-    filter: blur(30px);
-    opacity: 0.1;
+    -webkit-filter: blur(25px); 
+    -moz-filter: blur(25px); 
+    -o-filter: blur(25px); 
+    -ms-filter: blur(25px); 
+    filter: blur(25px);
+    opacity: 0.3;
 }
+
 
 .promotion{
     position: absolute;
